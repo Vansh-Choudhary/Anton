@@ -48,7 +48,7 @@ We welcome contributions from the community! Whether it's fixing bugs, adding ne
 
 2. **Clone Your Fork**:
    ```bash
-   git clone https://github.com/yourusername/anton.git
+   git clone https://github.com/Vansh-Choudhary/anton.git
    cd anton
    ```
 
