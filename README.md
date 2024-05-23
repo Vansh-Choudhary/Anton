@@ -1,4 +1,6 @@
-# Anton Browser
+<h1>
+  <img src="anton.png" alt="Logo" width="100" height="100">
+</h1>
 
 Welcome to the official repository of **Anton**, the fastest browser designed exclusively for macOS. Anton is built with efficiency and speed in mind, offering a sleek, user-friendly interface and optimized performance to enhance your browsing experience on any Mac device.
 
